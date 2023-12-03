@@ -9,6 +9,7 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 Generate random numbers, prompt user guesses, and provide feedback
 .
 Allow multiple rounds and calculate scores.
+
 **Task 2: Student Grade Calculator**
 
 Calculate total marks and average percentage.
