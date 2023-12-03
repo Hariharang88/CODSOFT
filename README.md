@@ -14,7 +14,8 @@ Allow multiple rounds and calculate scores.
 
 Calculate total marks and average percentage.
 Assign grades and display results.
-Task 3: ATM Interface
+
+**Task 3: ATM Interface**
 
 Create an ATM class with withdraw, deposit, and checkBalance methods.
 Implement input validation and connect with user's bank account.
